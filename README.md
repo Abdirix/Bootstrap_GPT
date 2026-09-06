@@ -113,5 +113,3 @@ Notes:
 Running with `--verbose` prints the full layout (LBA ranges for the MBR,
 GPT headers/tables, ESP, and data partition), which is useful for
 sanity-checking a generated image or debugging with a hex editor.
-
-## License
