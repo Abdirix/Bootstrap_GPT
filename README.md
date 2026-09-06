@@ -1,4 +1,4 @@
-# write_gpt
+# Bootstrap GPT
 
 A small C command-line tool that generates a raw GPT (GUID Partition Table) disk
 image containing:
